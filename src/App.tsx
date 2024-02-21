@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Route, Routes } from 'react-router-dom'
 import Exam8 from './pages/Exam8'
 import "./styles/tailwind.css"
